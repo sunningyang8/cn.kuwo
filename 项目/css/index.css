@@ -203,3 +203,151 @@ height: 227px;
 
 
 /* 第六部分 */
+
+.doliubufen{
+    margin-top: 77px;
+    width: 100%;
+    height: 583px;
+    background-color: #f7f7f7;
+    /* margin-bottom: 79px; */
+}
+
+.diliubufen-quyu{
+    height: 583px;
+    width: 100%;
+
+}
+.diliubufen-quyu-title{
+    
+height: 32px;
+width: 100%;
+background-color: #f7f7f7;
+float: left;
+}
+.diliubufen-quyu-title h1{
+    font-size: 32px;
+    display: inline;
+    margin-right: 40px;
+}
+.diliubufen-quyu-title a{
+font-size: 15px;
+font-weight: 100;
+}
+
+
+
+.diliubufen-quyu-xiabu{
+   margin-top: 30px;
+   /* float: left; */
+   height: 524px;
+   width: 100%;
+   background-color: #f7f7f7;
+   display: inline-block;
+}
+.diliubufen-quyu-xiabu-bufen{
+   
+
+    float: left;
+    width: 265px;
+    height: 100%;
+    background-color: #fff;
+}
+.diliubufen-quyu-xiabu-bufen:nth-last-child(-n+4){
+margin-left: 19px;
+}
+
+.diliubufen-xiabu-bufen-size-left{
+    position: relative;
+    float: left;
+    margin-top: 20px;
+}
+.diliubufen-xiabu-bufen-size-right{
+    /* float: left; */
+    display: inline-block;
+    margin-top: 30px;
+}
+.diliubufen-xiabu-bufen-size-right-xiabu{
+    width: 100%;
+    height: 43px;
+    margin-left: 22px;
+    margin-bottom: 25px;
+}
+.diliubufen-xiabu-bufen-size-right-xiabu a{
+    font-size: 16px;
+
+}
+.diliubufen-xiabu-bufen-size-right-xiabu span{
+    font-weight: 100;
+}
+
+
+
+.buchong{
+    width: 100%;
+    height: 79px;
+    background-color: #f7f7f7;
+}
+/* 第七部分 */
+
+
+.diqibufen{
+    height: 302px;
+    width: 100%;
+    background-color: #f7f7f7;
+    /* margin-top: 79px; */
+    margin-bottom: 74px;
+}
+.diqibufen-quyu{
+    height: 300px;
+    width: 100%;
+    background-color: #f7f7f7;
+}
+.diqibufen-quyu-title{
+    height: 30px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.diqibufen-quyu-title span{
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 13px;
+}
+.diqibufen-quyu-title a{
+    margin-right: 13px;
+    font-size: 16px;
+    color: #959795;
+   
+}
+.diqibufen-quyu-title a:hover{
+  color: #000;
+  border-bottom:8px solid #ffe443;
+}
+
+.diqibufen-quyu-xiabu{
+    height: 243px;
+    width: 100%;
+    background-color: #fff;
+}
+.diqibufen-quyu-xiabu-bufen{
+    display: inline-block;
+    height: 243px;
+    width: 184px;
+    overflow: hidden;
+    /* margin: 0 auto; */
+    /* float: left; */
+}
+.diqibufen-quyu-xiabu-bufen:nth-last-child(-n+5){
+    margin-left: 56px;
+}
+.diqibufen-quyu-xiabu-bufen h3{
+    text-align: center;
+    margin-top: 22px;
+    font-size: 16px;
+}
+.diqibufen-quyu-xiabu-bufen h6{
+    text-align: center;
+    color: #999999;
+    line-height: 30px;
+}
+
+
