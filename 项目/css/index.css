@@ -161,8 +161,32 @@ background-color: #fff;
 }
 .disibufen-quyu-tupian-bufen-diyi{
     display: inline-block;
+    position: relative;
 }
 
+.disibufen-quyu-tupian-bufen-diyi span{
+    position: absolute;
+    visibility: hidden;
+   display: block;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: red;
+    border-radius: 50%;
+    box-sizing: border-box;
+    line-height: 50px;
+    margin-left: -171px;
+    margin-top: 87px;
+}
+.disibufen-quyu-tupian-bufen-diyi .iconfont{
+    padding-left: 14px;
+    color: #ccc;
+    font-size: 80px;
+    /* background-color: #ccc; */
+    padding-top: 22px;
+    
+}
 .disibufen-quyu-tupian-bufen{
     display: inline-block;
     /* float: left; */
