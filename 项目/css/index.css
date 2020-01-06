@@ -1,3 +1,4 @@
+
 .diyibufen{
     width: 100%;
     height: 69px;
@@ -38,10 +39,13 @@ float: left;
 
 }
 .diyibufen-right input{
-    margin-top: 20px;
+    margin-top: 14px;
     float: left;
     height: 20px;
     width: 290px;
+    border: 0;
+    background-color: #f5f5f5;
+    padding: 10px 20px;
 }
 .diyibufen-right-bufen{
     padding: 0;
@@ -52,7 +56,6 @@ float: left;
 .diyibufen-right-bufen:hover{
     background-color: #fff;
 }
-
 /* 第二部分 */
 .dierbufen{
     width: 100%;
@@ -510,9 +513,7 @@ font-size: 15px;
     background-color: #282828;
 }
 
-/* .dijiubufen-quyu:nth-last-child(-n+2){
-    margin-right: 245px;
-} */
+
 .dijiubufen-quyu-bufen h1,
 .dijiubufen-quyu-bufen-dier h1{
 color: #ffffff;
